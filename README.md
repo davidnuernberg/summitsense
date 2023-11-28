@@ -9,7 +9,7 @@
 
 ## Installation
 ```bash 
-git clone https://github.com/user/repo.git
+git clone https://github.com/davidnuernberg/summit.git
 ```
 ### Virtuelle Python Environment erstellen
 
